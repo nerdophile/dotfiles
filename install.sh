@@ -92,7 +92,6 @@ fi
 
 # Install fonts
 echo -e "${BLUE}Installing fonts...${NC}"
-brew tap homebrew/cask-fonts
 brew install --cask font-jetbrains-mono font-fira-code-nerd-font font-meslo-lg-nerd-font
 
 # Install useful tools
